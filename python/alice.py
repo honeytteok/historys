@@ -24,5 +24,5 @@ while True:
     elif (ch == "**"):
        print("%d ** %d = %d" % (a, b, a ** b))
     else:
-       print("연산자를 잘못 입력하였습니다.")
+       print("연산자를 잘못 입력하다.")
 
